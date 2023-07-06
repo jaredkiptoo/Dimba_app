@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559084388897",
+    "project_id": "dimba-fa78f",
+    "storage_bucket": "dimba-fa78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559084388897:android:133c29ac8175b186d95960",
+        "android_client_info": {
+          "package_name": "com.example.dimba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559084388897-hktqdsu6f40qsn708ud61hjvj2abtbak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR-ofKEYLeO7DWBFEXY9SpUSRrolkEQJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559084388897-hktqdsu6f40qsn708ud61hjvj2abtbak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
